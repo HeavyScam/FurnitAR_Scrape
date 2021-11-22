@@ -1,4 +1,4 @@
-# FurnitAR_Scrape
+# furnitar-front
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HeavyScam/furnitar-front?logo=github&style=social)](https://github.com/HeavyScam/) [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/furnitar-front?style=social&logo=git)](https://github.com/HeavyScam/) [![GitHub stars](https://img.shields.io/github/stars/HeavyScam/furnitar-front?style=social)](https://github.com/HeavyScam/FurnitAR/stargazers) [![GitHub forks](https://img.shields.io/github/forks/HeavyScam/furnitar-front?style=social&logo=git)](https://github.com/HeavyScam/FurnitAR/network)
 
 <p align="center">
@@ -19,7 +19,7 @@
 # Contributors
 <table>
 	<tr align="center" style="font-weight:bold">
-     <td>
+    <td>
 		Neel Ghoshal
 		<p align="center">
 			<img src = "https://github.com/NeelGhoshal.png" width="150" height="150" alt="Neel Ghoshal">
@@ -29,7 +29,7 @@
 					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
 				</a>
 			</p>
-		</td>
+		</td>	
     <td>
 		Thaman Muthappa M N
 		<p align="center">
@@ -41,7 +41,6 @@
 				</a>
 			</p>
 		</td>	
-   	
     <td>
 		Divit Agrawal
 		<p align="center">
