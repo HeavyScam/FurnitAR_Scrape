@@ -9,12 +9,19 @@
 
 
 # Introduction
+Have you ever faced problems while furniture shopping online? Faced the pain of manually designing and measuring your furniture placing ideas?  What about the inconvenience of liking a product online just to find out they won't fit or are too small? We present to you *FurnitAR*, your one-stop solution to solve all your problems and hassles related to online furniture shopping!
 
-
-# Requirements
-
+# About FurintAR
+Using *FurnitAR* users would be able to measure real-world objects or even space by simply pointing their phone’s camera at the given item using Augmented Reality(AR) technology. 
+The measurements which are taken using AR will be used to display the relevant options of furniture which can be purchased from various E-commerce websites.
+In addition, users can also place a 3d model of their furniture in their room to get experience in real time.
+Our application can also be used to get readings in metric units to bring back up when you’re at IKEA later on.
 
 # Installation Guide to Run Locally
+Download code and run the .ipynb files with Jupyter notebook
+or
+Download code and convert ipynb files to .py and run on a code editor
+(requires pip install of BeautifulSoup and requests)
 
 # Contributors
 <table>
